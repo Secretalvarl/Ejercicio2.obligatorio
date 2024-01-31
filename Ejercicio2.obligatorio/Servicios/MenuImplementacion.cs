@@ -14,7 +14,7 @@ namespace Ejercicio2.obligatorio.Servicios
             Console.WriteLine("----------------------------------");
             Console.WriteLine("|0. Cerrar menu                  |");
             Console.WriteLine("|1. Añadir nuevo cliente         |");
-            Console.WriteLine("|2  . Ordenar por edad los clientes|");
+            Console.WriteLine("|2.  Ordenar por edad los clientes|");
             Console.WriteLine("----------------------------------");
 
             int opcion = Convert.ToInt32(Console.ReadLine());
